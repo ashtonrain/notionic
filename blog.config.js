@@ -4,7 +4,7 @@ const BLOG = {
   email: 'nsmbro@gmail.com',
   link: 'https://zuolan.me',
   newsletter: 'ashtonrainWEEKLY',
-  description: 'the yet unbroken part of my heart.',
+  description: 'the yet unbroken part of my heart',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
